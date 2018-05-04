@@ -1,7 +1,13 @@
 Detect Mobile
 =============
 
-Lightweight PHP plugin for EE2 that detects a mobile browser using the PHP Detect Mobile class (http://mobiledetect.net/)
+Lightweight PHP plugin for EE2, EE3 & EE4 that detects a mobile browser using the PHP Detect Mobile class 
+
+Code Port from Gareth Davies: http://mobiledetect.net/
+
+Upgraded Mobile Detect Class to version: 2.8.31
+
+
 
 Basic Usage
 =============
